@@ -1,0 +1,9 @@
+C:\Users\assala\source\repos\architechture\Calculatrice\Claculatrice\bin\Debug\netstandard2.0\Claculatrice.deps.json
+C:\Users\assala\source\repos\architechture\Calculatrice\Claculatrice\bin\Debug\netstandard2.0\Claculatrice.dll
+C:\Users\assala\source\repos\architechture\Calculatrice\Claculatrice\bin\Debug\netstandard2.0\Claculatrice.pdb
+C:\Users\assala\source\repos\architechture\Calculatrice\Claculatrice\obj\Debug\netstandard2.0\Claculatrice.csprojAssemblyReference.cache
+C:\Users\assala\source\repos\architechture\Calculatrice\Claculatrice\obj\Debug\netstandard2.0\Claculatrice.AssemblyInfoInputs.cache
+C:\Users\assala\source\repos\architechture\Calculatrice\Claculatrice\obj\Debug\netstandard2.0\Claculatrice.AssemblyInfo.cs
+C:\Users\assala\source\repos\architechture\Calculatrice\Claculatrice\obj\Debug\netstandard2.0\Claculatrice.csproj.CoreCompileInputs.cache
+C:\Users\assala\source\repos\architechture\Calculatrice\Claculatrice\obj\Debug\netstandard2.0\Claculatrice.dll
+C:\Users\assala\source\repos\architechture\Calculatrice\Claculatrice\obj\Debug\netstandard2.0\Claculatrice.pdb

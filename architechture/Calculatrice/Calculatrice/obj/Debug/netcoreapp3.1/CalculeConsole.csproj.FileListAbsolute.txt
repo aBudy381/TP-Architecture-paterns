@@ -1,0 +1,16 @@
+C:\Users\assala\source\repos\architechture\Calculatrice\Calculatrice\bin\Debug\netcoreapp3.1\CalculeConsole.exe
+C:\Users\assala\source\repos\architechture\Calculatrice\Calculatrice\bin\Debug\netcoreapp3.1\CalculeConsole.deps.json
+C:\Users\assala\source\repos\architechture\Calculatrice\Calculatrice\bin\Debug\netcoreapp3.1\CalculeConsole.runtimeconfig.json
+C:\Users\assala\source\repos\architechture\Calculatrice\Calculatrice\bin\Debug\netcoreapp3.1\CalculeConsole.runtimeconfig.dev.json
+C:\Users\assala\source\repos\architechture\Calculatrice\Calculatrice\bin\Debug\netcoreapp3.1\CalculeConsole.dll
+C:\Users\assala\source\repos\architechture\Calculatrice\Calculatrice\bin\Debug\netcoreapp3.1\CalculeConsole.pdb
+C:\Users\assala\source\repos\architechture\Calculatrice\Calculatrice\bin\Debug\netcoreapp3.1\Claculatrice.dll
+C:\Users\assala\source\repos\architechture\Calculatrice\Calculatrice\bin\Debug\netcoreapp3.1\Claculatrice.pdb
+C:\Users\assala\source\repos\architechture\Calculatrice\Calculatrice\obj\Debug\netcoreapp3.1\CalculeConsole.csprojAssemblyReference.cache
+C:\Users\assala\source\repos\architechture\Calculatrice\Calculatrice\obj\Debug\netcoreapp3.1\CalculeConsole.AssemblyInfoInputs.cache
+C:\Users\assala\source\repos\architechture\Calculatrice\Calculatrice\obj\Debug\netcoreapp3.1\CalculeConsole.AssemblyInfo.cs
+C:\Users\assala\source\repos\architechture\Calculatrice\Calculatrice\obj\Debug\netcoreapp3.1\CalculeConsole.csproj.CoreCompileInputs.cache
+C:\Users\assala\source\repos\architechture\Calculatrice\Calculatrice\obj\Debug\netcoreapp3.1\CalculeConsole.csproj.CopyComplete
+C:\Users\assala\source\repos\architechture\Calculatrice\Calculatrice\obj\Debug\netcoreapp3.1\CalculeConsole.dll
+C:\Users\assala\source\repos\architechture\Calculatrice\Calculatrice\obj\Debug\netcoreapp3.1\CalculeConsole.pdb
+C:\Users\assala\source\repos\architechture\Calculatrice\Calculatrice\obj\Debug\netcoreapp3.1\CalculeConsole.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vjfWMB+yluaSKTO1a6Byqdd8r2owdYpf7gYVkM9J04Wu9m4JZ4fI2Vu/+Mb8ZcijdUikAmGEMznoykRAr+IPUw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\assala\\source\\repos\\architechture\\Calculatrice\\Claculatrice\\Claculatrice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\assala\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\assala\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

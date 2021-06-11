@@ -1,0 +1,13 @@
+C:\Users\assala\source\repos\architechture\Calculatrice\WinFormCalculatrice\obj\Debug\WinFormCalculatrice.csprojAssemblyReference.cache
+C:\Users\assala\source\repos\architechture\Calculatrice\WinFormCalculatrice\obj\Debug\WinFormCalculatrice.Form1.resources
+C:\Users\assala\source\repos\architechture\Calculatrice\WinFormCalculatrice\obj\Debug\WinFormCalculatrice.Properties.Resources.resources
+C:\Users\assala\source\repos\architechture\Calculatrice\WinFormCalculatrice\obj\Debug\WinFormCalculatrice.csproj.GenerateResource.cache
+C:\Users\assala\source\repos\architechture\Calculatrice\WinFormCalculatrice\obj\Debug\WinFormCalculatrice.csproj.CoreCompileInputs.cache
+C:\Users\assala\source\repos\architechture\Calculatrice\WinFormCalculatrice\bin\Debug\WinFormCalculatrice.exe.config
+C:\Users\assala\source\repos\architechture\Calculatrice\WinFormCalculatrice\bin\Debug\WinFormCalculatrice.exe
+C:\Users\assala\source\repos\architechture\Calculatrice\WinFormCalculatrice\bin\Debug\WinFormCalculatrice.pdb
+C:\Users\assala\source\repos\architechture\Calculatrice\WinFormCalculatrice\bin\Debug\Claculatrice.dll
+C:\Users\assala\source\repos\architechture\Calculatrice\WinFormCalculatrice\bin\Debug\Claculatrice.pdb
+C:\Users\assala\source\repos\architechture\Calculatrice\WinFormCalculatrice\obj\Debug\WinFormCalculatrice.csproj.CopyComplete
+C:\Users\assala\source\repos\architechture\Calculatrice\WinFormCalculatrice\obj\Debug\WinFormCalculatrice.exe
+C:\Users\assala\source\repos\architechture\Calculatrice\WinFormCalculatrice\obj\Debug\WinFormCalculatrice.pdb

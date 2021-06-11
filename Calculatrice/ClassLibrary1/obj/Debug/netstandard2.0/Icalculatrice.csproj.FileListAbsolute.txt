@@ -1,0 +1,9 @@
+C:\Users\assala\source\repos\architechture\Calculatrice\ClassLibrary1\bin\Debug\netstandard2.0\Icalculatrice.deps.json
+C:\Users\assala\source\repos\architechture\Calculatrice\ClassLibrary1\bin\Debug\netstandard2.0\Icalculatrice.dll
+C:\Users\assala\source\repos\architechture\Calculatrice\ClassLibrary1\bin\Debug\netstandard2.0\Icalculatrice.pdb
+C:\Users\assala\source\repos\architechture\Calculatrice\ClassLibrary1\obj\Debug\netstandard2.0\Icalculatrice.csprojAssemblyReference.cache
+C:\Users\assala\source\repos\architechture\Calculatrice\ClassLibrary1\obj\Debug\netstandard2.0\Icalculatrice.AssemblyInfoInputs.cache
+C:\Users\assala\source\repos\architechture\Calculatrice\ClassLibrary1\obj\Debug\netstandard2.0\Icalculatrice.AssemblyInfo.cs
+C:\Users\assala\source\repos\architechture\Calculatrice\ClassLibrary1\obj\Debug\netstandard2.0\Icalculatrice.csproj.CoreCompileInputs.cache
+C:\Users\assala\source\repos\architechture\Calculatrice\ClassLibrary1\obj\Debug\netstandard2.0\Icalculatrice.dll
+C:\Users\assala\source\repos\architechture\Calculatrice\ClassLibrary1\obj\Debug\netstandard2.0\Icalculatrice.pdb
